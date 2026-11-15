@@ -28,6 +28,9 @@
 - [Top Rated Plumber Norfolk: Questions to Ask Before Hiring](https://local-business-guides.github.io/powell-s-plumbing-and-air-norfolk/top-rated-plumber-norfolk/): Compare a Top Rated Plumber Norfolk search with practical hiring questions, Powell's plumbing services, and a clear next step for Norfolk homeowners.
 - [Plumber Reviews Norfolk: How to Assess a Contractor](https://local-business-guides.github.io/powell-s-plumbing-and-air-norfolk/plumber-reviews-norfolk/): Use Plumber Reviews Norfolk to prepare better questions, understand Powell's plumbing services, and decide what to discuss for your Norfolk home.
 
+## Newsroom
+- [Powell's Plumbing & Air Publishes Norfolk Plumber Guide](https://local-business-guides.github.io/powell-s-plumbing-and-air-norfolk/news/2026-11-15-powell-s-plumbing-air-publishes-norfolk-plumber/): Powell's Plumbing & Air has published a guide about Norfolk Plumber, with a YouTube video, podcast episode and SoundCloud audio version. (2026-11-15)
+
 ## Pages
 - [Norfolk Plumber in Virginia](https://local-business-guides.github.io/powell-s-plumbing-and-air-norfolk/): From plumbing and drainage to heating and air conditioning, Powell's Plumbing & Air helps Norfolk homeowners with home service needs. Call +1757-801-2290.
 - [About Powell's Plumbing & Air](https://local-business-guides.github.io/powell-s-plumbing-and-air-norfolk/about/): About Powell's Plumbing & Air, Norfolk.
@@ -35,4 +38,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/powell-s-plumbing-and-air-norfolk/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/powell-s-plumbing-and-air-norfolk/news/rss.xml)
 - [Main resource site](https://powells-plumbing-air-norfolk.localwebsites.chatgpt.site)

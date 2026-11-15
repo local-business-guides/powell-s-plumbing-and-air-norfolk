@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://local-business-guides.github.io/powell-s-plumbing-and-air-norfolk/sitemap.xml
+Sitemap: https://local-business-guides.github.io/powell-s-plumbing-and-air-norfolk/news-sitemap.xml
