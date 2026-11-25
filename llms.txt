@@ -17,9 +17,9 @@
 - Water testing service
 
 ## Guides
-- [Plumbing Contractor Norfolk Homeowners Can Call](https://local-business-guides.github.io/powell-s-plumbing-and-air-norfolk/plumbing-contractor-norfolk/): Choosing a Plumbing Contractor Norfolk homeowners can talk to starts with clear questions. Review this checklist, then call Powell's Plumbing & Air in Norfolk
-- [Norfolk Plumber for Home Plumbing Needs](https://local-business-guides.github.io/powell-s-plumbing-and-air-norfolk/norfolk-plumber/): Need a Norfolk Plumber for a leak, drain, or water concern? Learn what to prepare, then call Powell's Plumbing & Air in Norfolk to discuss next steps.
 - [Plumbing Company Norfolk Homeowners Can Call](https://local-business-guides.github.io/powell-s-plumbing-and-air-norfolk/plumbing-company-norfolk/): Looking for a Plumbing Company Norfolk homeowners can call? Get clear help with plumbing concerns in Norfolk, VA. Call Powell's Plumbing & Air today for guida
+- [Norfolk Plumber for Home Plumbing Needs](https://local-business-guides.github.io/powell-s-plumbing-and-air-norfolk/norfolk-plumber/): Need a Norfolk Plumber for a leak, drain, or water concern? Learn what to prepare, then call Powell's Plumbing & Air in Norfolk to discuss next steps.
+- [Plumbing Contractor Norfolk Homeowners Can Call](https://local-business-guides.github.io/powell-s-plumbing-and-air-norfolk/plumbing-contractor-norfolk/): Choosing a Plumbing Contractor Norfolk homeowners can talk to starts with clear questions. Review this checklist, then call Powell's Plumbing & Air in Norfolk
 - [Plumbing Repair Norfolk Residents Can Request](https://local-business-guides.github.io/powell-s-plumbing-and-air-norfolk/plumbing-repair-norfolk/): Need Plumbing Repair Norfolk homeowners can arrange for a leak, drain, or water heater? Get practical next steps in Norfolk, VA. Call Powell's Plumbing & Air.
 - [Emergency Plumbing Norfolk for Homeowners](https://local-business-guides.github.io/powell-s-plumbing-and-air-norfolk/emergency-plumbing-norfolk/): Need Emergency Plumbing Norfolk help? Powell's Plumbing & Air is open around the clock in Norfolk, VA. Call now to talk through the problem at home.
 - [Plumbing Installation Norfolk for Your Home](https://local-business-guides.github.io/powell-s-plumbing-and-air-norfolk/plumbing-installation-norfolk/): Planning Plumbing Installation Norfolk? Powell's Plumbing & Air can help assess your home and plan the work in Norfolk, VA. Call today to discuss next steps.
@@ -29,6 +29,7 @@
 - [Plumber Reviews Norfolk: How to Assess a Contractor](https://local-business-guides.github.io/powell-s-plumbing-and-air-norfolk/plumber-reviews-norfolk/): Use Plumber Reviews Norfolk to prepare better questions, understand Powell's plumbing services, and decide what to discuss for your Norfolk home.
 
 ## Newsroom
+- [Powell's Plumbing & Air Shares New Guide for Norfolk Readers](https://local-business-guides.github.io/powell-s-plumbing-and-air-norfolk/news/2026-11-25-powell-s-plumbing-air-shares-new-guide-for-norfolk/): Powell's Plumbing & Air has published a guide to Plumbing Company Norfolk, with a YouTube video, podcast episode and SoundCloud audio version. (2026-11-25)
 - [Powell's Plumbing & Air Shares Norfolk Plumbing Contractor Guide](https://local-business-guides.github.io/powell-s-plumbing-and-air-norfolk/news/2026-11-25-powell-s-plumbing-air-shares-norfolk-plumbing/): Powell's Plumbing & Air released a Norfolk plumbing contractor guide, with a YouTube video, podcast episode and SoundCloud audio version. (2026-11-25)
 - [Powell's Plumbing & Air Shares New Plumber Norfolk Information](https://local-business-guides.github.io/powell-s-plumbing-and-air-norfolk/news/2026-11-16-powell-s-plumbing-air-shares-new-plumber-norfolk/): Powell's Plumbing & Air published new information about Plumber Norfolk, with a YouTube video, podcast episode and SoundCloud audio version. (2026-11-16)
 - [Powell's Plumbing & Air Publishes Norfolk Plumber Guide](https://local-business-guides.github.io/powell-s-plumbing-and-air-norfolk/news/2026-11-15-powell-s-plumbing-air-publishes-norfolk-plumber/): Powell's Plumbing & Air has published a guide about Norfolk Plumber, with a YouTube video, podcast episode and SoundCloud audio version. (2026-11-15)
@@ -41,4 +42,4 @@
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/powell-s-plumbing-and-air-norfolk/sitemap.xml)
 - [News RSS feed](https://local-business-guides.github.io/powell-s-plumbing-and-air-norfolk/news/rss.xml)
-- [Main resource site](https://powells-plumbing-air-norfolk.localwebsites.chatgpt.site)
+- [Main resource site](https://powells-plumbing-air-norfolk.localwebsites.chatgpt.site/news/2026-11-25-powell-s-plumbing-air-publishes-norfolk-plumbing-guide/)
